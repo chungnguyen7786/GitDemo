@@ -1,1 +1,1 @@
-This is branch2 file from branch no. 2
+console.log("This is branch2 file from branch no. 2");
